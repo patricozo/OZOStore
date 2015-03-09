@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/MinhHoang/Documents/Apps_Android/OZOStore/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/MinhHoang/Documents/Apps_Android/OZOStore/app/build/intermediates/pre-dexed/debug/classes-156e488be300530cba138c556c2ab37ea3a8ec88.jar" />
+    </item>
+    <item
+        jar="/Users/MinhHoang/Documents/Apps_Android/OZOStore/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/MinhHoang/Documents/Apps_Android/OZOStore/app/build/intermediates/pre-dexed/debug/classes-bcc6d6d949821ce389ba35689cce794e299fa3b6.jar" />
+    </item>
+    <item
+        jar="/Users/MinhHoang/Documents/Apps_Android/OZOStore/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/MinhHoang/Documents/Apps_Android/OZOStore/app/build/intermediates/pre-dexed/debug/classes-4e1e65c5c2c40c4ade26751a74e7e5f0cee51501.jar" />
+    </item>
+    <item
+        jar="/Users/MinhHoang/Documents/Apps_Android/OZOStore/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/MinhHoang/Documents/Apps_Android/OZOStore/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8f7fc49860ffd5bd380515d975d07d926c7e757f.jar" />
+    </item>
+    <item
+        jar="/Users/MinhHoang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/MinhHoang/Documents/Apps_Android/OZOStore/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c5c29902ce58ad7bd97e52313b98e7081945d902.jar" />
+    </item>
+
+</items>
